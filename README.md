@@ -36,3 +36,4 @@ Possíveis melhorias futuras:
 1. Colocar PropTypes;
 2. Colocar listagem infinita dos produtos;
 3. Refatorar algumas funções que ficaram grandes;
+4. Deixar responsivo, criar PWA e fazer deploy =)
